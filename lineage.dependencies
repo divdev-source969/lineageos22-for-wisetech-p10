@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "divdev-source969/android_kernel_wisephone_mt6739",
+    "target_path": "kernel/wisephone/mt6739"
+  },
+  {
+    "repository": "divdev-source969/proprietary_vendor_wisephone_p10",
+    "target_path": "vendor/wisephone/p10"
+  },
+  {
+    "repository": "LineageOS/android_hardware_mediatek",
+    "target_path": "hardware/mediatek"
+  }
+]

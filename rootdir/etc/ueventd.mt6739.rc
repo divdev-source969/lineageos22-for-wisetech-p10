@@ -1,0 +1,5 @@
+# TODO: verify against stock /vendor/ueventd.rc
+/dev/ttyMT*      0660  bluetooth  bluetooth
+/dev/wmtWifi     0660  wifi       wifi
+/dev/stpwmt      0660  bluetooth  bluetooth
+/dev/ccci_*      0660  radio      radio
