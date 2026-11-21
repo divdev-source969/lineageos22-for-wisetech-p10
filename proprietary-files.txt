@@ -1,0 +1,18 @@
+# Graphics
+vendor/lib/egl/libGLES_meizu.so
+vendor/lib/hw/gralloc.mt6739.so
+
+# Audio / Sound hardware
+vendor/lib/hw/audio.primary.mt6739.so
+
+# Sensors (Accelerometer, Proximity)
+vendor/lib/hw/sensors.mt6739.so
+
+# Network Connectivity / Radio Interface Layer (SIM Card & Mobile Data)
+vendor/lib/libmtk-ril.so
+vendor/lib/firmware/modem.img
+
+# Wi-Fi and Wireless Configs
+vendor/lib/libwifi-hal-mtk.so
+vendor/firmware/WMT_SOC.cfg
+vendor/firmware/wifi.cfg
