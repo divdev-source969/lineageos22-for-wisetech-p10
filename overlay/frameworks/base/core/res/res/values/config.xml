@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- Telephony -->
-    <bool name="config_voice_capable">true</bool>
-    <bool name="config_sms_capable">true</bool>
-
-    <!-- TODO: tune with stock values (hardware keys, brightness, etc.) -->
-</resources>
