@@ -1,9 +1,0 @@
-<!--
-  Vendor VINTF manifest skeleton.
-  BEST PRACTICE: start from the STOCK /vendor/etc/vintf/manifest.xml
-  (or /vendor/manifest.xml) and copy its <hal> entries here.
-  Only list HALs your blobs actually provide.
--->
-<manifest version="1.0" type="device">
-    <!-- TODO: add <hal> entries from the stock manifest -->
-</manifest>

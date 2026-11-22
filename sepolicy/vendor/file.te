@@ -1,2 +1,0 @@
-# Types used by this device tree (add more as logcat/dmesg show denials)
-type nvdata_file, file_type;

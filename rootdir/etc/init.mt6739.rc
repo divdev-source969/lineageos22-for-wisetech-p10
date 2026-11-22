@@ -1,9 +1,0 @@
-# Device init script. Keep minimal; add services only for binaries that exist in your vendor blobs.
-
-on post-fs
-    mkdir /mnt/vendor/nvdata 0771 system system
-
-on post-fs-data
-    mkdir /data/vendor 0771 root system
-    # TODO: add mkdir/chmod lines needed by MTK services (ccci, mdlogger, wmt launcher, etc.)
-    # Copy the relevant parts from stock /vendor/etc/init/*.rc

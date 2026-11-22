@@ -1,2 +1,0 @@
-/mnt/vendor/nvdata(/.*)?    u:object_r:nvdata_file:s0
-/dev/block/platform/bootdevice/by-name/nvdata    u:object_r:nvdata_file:s0
